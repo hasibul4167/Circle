@@ -1,0 +1,15 @@
+F:\c#\circle\bin\Debug\net6.0\circle.exe
+F:\c#\circle\bin\Debug\net6.0\circle.deps.json
+F:\c#\circle\bin\Debug\net6.0\circle.runtimeconfig.json
+F:\c#\circle\bin\Debug\net6.0\circle.dll
+F:\c#\circle\bin\Debug\net6.0\circle.pdb
+F:\c#\circle\obj\Debug\net6.0\circle.csproj.AssemblyReference.cache
+F:\c#\circle\obj\Debug\net6.0\circle.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\circle\obj\Debug\net6.0\circle.AssemblyInfoInputs.cache
+F:\c#\circle\obj\Debug\net6.0\circle.AssemblyInfo.cs
+F:\c#\circle\obj\Debug\net6.0\circle.csproj.CoreCompileInputs.cache
+F:\c#\circle\obj\Debug\net6.0\circle.dll
+F:\c#\circle\obj\Debug\net6.0\refint\circle.dll
+F:\c#\circle\obj\Debug\net6.0\circle.pdb
+F:\c#\circle\obj\Debug\net6.0\circle.genruntimeconfig.cache
+F:\c#\circle\obj\Debug\net6.0\ref\circle.dll
